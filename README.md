@@ -6,12 +6,7 @@
 
 ### Download
 
-* [Vertical_Clock_V.1.0 Download](https://github.com/NewPremium/Vertical_Clock_V.1.0/archive/master.zip)
-
-### 공식 사이트
-
-* [공식 사이트](https://newpremium.github.io/Vertical_Clock_Web_Site/)
-* [공식 사이트 Github](https://github.com/NewPremium/Vertical_Clock_Web_Site)
+* [Vertical_Clock Download](https://github.com/NewPremium/Vertical_Clock/releases)
 
 ### 설명
 
