@@ -64,10 +64,13 @@ if __name__ == "__main__":
         file.close()
         
         # 출력
+        print()
         print("\033[37m" + TimeHour + "\033[0m")
+        print()
         print("\033[37m" + "==============================")
         print("\033[37m" + f"   {now.year} - {now.month} - {now.day}" + "\033[0m")
         print("\033[37m" + "==============================" + "\033[0m")
+        print()
         print("\033[37m" + TimeMinute + "\033[0m")
 
         # 변수 초기화
